@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "ArYan-bot",
+  "BOTNAME": "Masum-bot",
   "PREFIX": "!",
   "OPERATOR": [
     "61566369721724",
     ""
   ],
   "ADMINBOT": [
-    "61566369721724",
+    "100078624862893",
     ""
   ],
   "OWNER": ["100000959749712"], 
