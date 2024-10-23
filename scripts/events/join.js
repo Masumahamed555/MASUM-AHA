@@ -63,11 +63,11 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER : 𝖠  𝖱 𝖸 𝖠 𝖭 
+DEVELOPER : Hm Masum Ahamed 
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/aryan.com404
+https://www.facebook.com/profile.php?id=100078624862893&mibextid=ZbWKwL
 
 🔵WHATSAPP NUMBER: INBOX`, attachment: fs.createReadStream(gifPath)}, threadID));
 })
